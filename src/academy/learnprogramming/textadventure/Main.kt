@@ -27,7 +27,7 @@ fun main(args: Array<String>) {
             loc = location.exits[direction]!!
         }
         else {
-            println("You can't go in that direction"  )
+            println("You can't go in that direction")
         }
 
 
